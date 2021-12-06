@@ -1,6 +1,6 @@
 Hello,
 
-My name Gage, and I'm currently working on my bachelor's degree in Computer Science at Dakota State University. I've been coding since I fell in love after a class in 6th grade when I was 12. Most of my programs have to do with mathematics, one of my favorite uses for programming. 
+My name Gage, and I'm currently working on my bachelor's degree in Computer Science at Dakota State University. I fell in love with coding after a class in school when I was 12 years old. Most of my programs have to do with mathematics, one of my favorite uses for programming. 
 
 ![Mandelbrot (1)](https://user-images.githubusercontent.com/61923833/144770341-0141b460-0937-4ffb-8928-98adf9869d43.png)
 
