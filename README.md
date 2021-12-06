@@ -1,4 +1,4 @@
-Hello.
+Hello,
 
 My name Gage, and I'm currently working on my bachelor's degree in Computer Science at Dakota State University. I've been coding since I fell in love after a class in 6th grade when I was 12. Most of my programs have to do with mathematics, one of my favorite uses for programming. 
 
