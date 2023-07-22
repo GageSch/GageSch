@@ -1,6 +1,6 @@
 Hello,
 
-My name Gage, and I'm currently working on my Bachelor's(and then Master's) degree in Computer Science at Dakota State University. I fell in love with coding after a class in school when I was 12 years old. Most of my programs have to do with mathematics, one of my favorite uses for programming. 
+My name Gage, and I'm currently working on my Bachelor's(and then Master's) degree in Cybersecurity and Computer Science at Dakota State University. I've got some funky math programs and CTF writeups for right now. Maybe I'll add some tools and other stuff I've made soon. 
 
 ![Mandelbrot (1)](https://user-images.githubusercontent.com/61923833/144770341-0141b460-0937-4ffb-8928-98adf9869d43.png)
 
